@@ -14,6 +14,8 @@
 > - Проверка и установка новых драйверов на видеокарту (BETA, not released)
 > - VC Redist 16++
 > - .NET Framework 4.7
+
+
 ![фотография](https://github.com/prunus1337/PacketManager/assets/109693401/a40aaf67-8d9e-4c79-a740-ad07d3f45134)
 
 
